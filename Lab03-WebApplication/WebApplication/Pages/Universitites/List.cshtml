@@ -1,0 +1,26 @@
+﻿@page
+@model WebApplication.Pages.Universitites.ListModel
+@{
+}
+
+<h1>Universities</h1>
+<div>
+    <table class="table">
+        <tr>
+            <td class="font-weight-bold">ID</td>
+            <td class="font-weight-bold">Name</td>
+            <td class="font-weight-bold">Adress</td>
+        </tr>
+        @foreach (var uni in Model.Universities)
+        {
+            <tr>
+                <td>@uni.Id</td>
+                <td>@uni.Name</td>
+                <td>@uni.Address</td>
+                <td><a asp-page="/Universitites/Details" asp-route-universityId="@uni.Id">Details</a></td>
+            </tr>
+
+        }
+
+    </table>
+</div> 

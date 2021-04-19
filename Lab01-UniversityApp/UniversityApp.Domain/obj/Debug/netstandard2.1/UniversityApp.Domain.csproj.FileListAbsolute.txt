@@ -1,0 +1,9 @@
+F:\ITI Courses\Asp.net\Day01\Lab\UniversityApp\UniversityApp.Domain\bin\Debug\netstandard2.1\UniversityApp.Domain.deps.json
+F:\ITI Courses\Asp.net\Day01\Lab\UniversityApp\UniversityApp.Domain\bin\Debug\netstandard2.1\UniversityApp.Domain.dll
+F:\ITI Courses\Asp.net\Day01\Lab\UniversityApp\UniversityApp.Domain\bin\Debug\netstandard2.1\UniversityApp.Domain.pdb
+F:\ITI Courses\Asp.net\Day01\Lab\UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.1\UniversityApp.Domain.csprojAssemblyReference.cache
+F:\ITI Courses\Asp.net\Day01\Lab\UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.1\UniversityApp.Domain.AssemblyInfoInputs.cache
+F:\ITI Courses\Asp.net\Day01\Lab\UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.1\UniversityApp.Domain.AssemblyInfo.cs
+F:\ITI Courses\Asp.net\Day01\Lab\UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.1\UniversityApp.Domain.csproj.CoreCompileInputs.cache
+F:\ITI Courses\Asp.net\Day01\Lab\UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.1\UniversityApp.Domain.dll
+F:\ITI Courses\Asp.net\Day01\Lab\UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.1\UniversityApp.Domain.pdb

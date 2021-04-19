@@ -1,0 +1,13 @@
+﻿@page
+@model WebApplication.Pages.Universitites.DetailsModel
+@{
+}
+
+<h1>@Model.University.Name Details</h1>
+
+
+<h3 class="font-weight-bold">Name: @Model.University.Name </h3>
+<h3 class="font-weight-bold">Address:  @Model.University.Address</h3>
+<h3 class="font-weight-bold">ID: @Model.University.Id</h3>
+
+<a asp-page="/Universitites/List">Back to the Univerisities list</a>
